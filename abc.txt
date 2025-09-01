@@ -1,3 +1,2 @@
 Hello World 
-From VS Code
-Edited from VS code
+Edited from github then VS code
